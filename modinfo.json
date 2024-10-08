@@ -1,0 +1,22 @@
+{
+  "context": "client",
+  "identifier": "com.pa.kasa.mappack",
+  "display_name": "Jinxed Map Pack",
+  "description": "4v4 and 5v5 Nomegatron map variations for all sorts of weather.",
+  "author": "kasa",
+  "version": "1.0.0",
+  "build": "120799",
+  "date": "2024-10-08",
+  "signature": " ",
+  "forum": " ",
+  "category": [
+	  "maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/kasa/maps.js"
+    ],
+	"priority": 100,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
