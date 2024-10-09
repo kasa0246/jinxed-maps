@@ -10,7 +10,8 @@
   "signature": " ",
   "forum": "https://github.com/kasa0246/jinxed-maps/discussions",
   "category": [
-	  "maps"
+	  "maps",
+	  "titans"
     ],
   "load_planet": [
         "coui://ui/mods/kasa/maps.js"
