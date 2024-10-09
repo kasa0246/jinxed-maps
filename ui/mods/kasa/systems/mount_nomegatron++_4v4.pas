@@ -1,5 +1,5 @@
 {
-    "name": "Mountainous Nomegatron++ 4v4",
+    "name": "Mount Nomegatron++ 4v4",
     "description": "Nomegatron map remake by kasa. Features: two large spawn platforms connected by a massive bridge; mountains, platforms and chokepoints; symmetrical terrain; additional points of interest; laned spawns. Player 1 spaws in the middle as a support; players 2 and 3 start near the ramp.",
     "creator": "kasa",
     "version": "1.0.0",
