@@ -4,7 +4,7 @@
   "display_name": "Jinxed Map Pack",
   "description": "4v4 and 5v5 Nomegatron map variations for all sorts of weather.",
   "author": "kasa",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "build": "120799",
   "date": "2024-10-12",
   "signature": " ",
@@ -14,10 +14,13 @@
 	  "maps",
 	  "titans"
     ],
-  "load_planet": [
-        "coui://ui/mods/kasa/maps.js"
-    ],
+  "scenes": {
+        "load_planet": [
+            "coui://ui/mods/kasa/maps.js"
+        ]
+    },
   "priority": 100,
+  "enabled": true,
   "dependencies": [
         "com.pa.conundrum.cShareSystems",
 	"com.pa.grandhomie.simplebiomes.server",
