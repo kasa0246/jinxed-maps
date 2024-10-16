@@ -1,6 +1,6 @@
 {
     "name": "Lava Nomegatron++ 5v5x",
-    "description": "Nomegatron map remake by kasa. Features: two large spawn platforms connected by a massive bridge surrounded by lava on all sides; limited space to build and expand; additional points of interest; laned spawns. Player 5 spawns in the middle as a support; Players 2 and 3 start near the ramp.",
+    "description": "Nomegatron map remake by kasa. Features: two large spawn platforms connected by a massive bridge surrounded by lava on all sides; limited space to build; additional points of interest; laned spawns. Player 5 spawns in the middle as a support; players 2 and 3 start near the ramp.",
     "creator": "kasa",
     "version": "1.0.0",
     "planets": [
