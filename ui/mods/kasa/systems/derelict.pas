@@ -1,6 +1,6 @@
 {
     "name": "De Relict",
-    "description": "Humanity turns Earth into a junkyard and then abandons it at the first opportunity. Thousands of years later, Wall-E finds a poppy plant seed and brings it to Eve who sends signal into the ether that reads: 'Never gonna give you up/Never gonna let you down...'. Anywaysss..., Earth is going to be restored, humans are comming back. OR are they?",
+    "description": "Humanity turns Earth into a junkyard and then abandons it at the first opportunity. Thousands of years later, Wall-E finds a poppy plant seed and brings it to Eve who sends signal into the ether that reads: 'Never gonna give you up/Never gonna let you down...'. Anywaysss..., Earth is going to be restored, humans are coming back. OR are they?",
     "creator": "kasa",
     "version": "1.0.0",
     "planets": [
