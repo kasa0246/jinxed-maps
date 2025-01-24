@@ -27,5 +27,7 @@ cShareSystems.load_pas("Jinxed Maps", [
 	"coui://ui/mods/kasa/systems/the_dust.pas",
 	"coui://ui/mods/kasa/systems/derelict.pas",
 	"coui://ui/mods/kasa/systems/the_awakening.pas",
-	"coui://ui/mods/kasa/systems/titanic's_revenge.pas"
+	"coui://ui/mods/kasa/systems/titanic's_revenge.pas",
+	"coui://ui/mods/kasa/systems/nomegatron++_8v8.pas",
+	"coui://ui/mods/kasa/systems/nomegatron++_9v9.pas"
 ]);
