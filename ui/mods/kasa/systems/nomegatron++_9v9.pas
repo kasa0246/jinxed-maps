@@ -1,11 +1,11 @@
 {
     "name": "Nomegatron++ 9v9",
-    "description": "Nomegatron map remake by kasa. Features: two large spawn platforms connected by a massive bridge; symmetrical terrain; fair amount of trees to reclaim; additional points of interest; laned spawns. Even-numbered players spawn at the corners of the starting platform, players 4 and 6 land near the ramp. Player 9 starts in the middle as a support.",
+    "description": "Nomegatron map remake by kasa. Features: two large spawn platforms connected by a massive bridge; symmetrical terrain; fair amount of trees to reclaim; additional points of interest; laned spawns. Even-numbered players spawn at the corners of the starting platform, players 4, 5 and 6 land near the ramp. Player 9 starts in the middle as a support.",
     "creator": "kasa",
     "version": "1.0.0",
     "planets": [
         {
-            "name": "Mega Nomegatron+",
+            "name": "Giga Nomegatron+",
             "mass": 20000,
             "position_x": 0,
             "position_y": -50000,
@@ -223,20 +223,20 @@
                         67.21076965332031,
                         -0.06043052673339844
                     ],
-                    "height": 816.4230346679688,
+                    "height": "817.0230346679688",
                     "transform": [
                         -0.17602550983428955,
                         0.0008421316742897034,
                         1.8412495851516724,
-                        812.7174072265625,
+                        813.712890625,
                         1.841235637664795,
                         -0.007147297263145447,
                         0.17602746188640594,
-                        77.69755554199219,
+                        77.792724609375,
                         0.007194995880126953,
                         1.8496307134628296,
                         -0.00015809480100870132,
-                        -0.06978217512369156
+                        -0.06986764818429947
                     ],
                     "scale": [
                         1.8496447801589966,
@@ -2587,7 +2587,6 @@
                         280.8999938964844,
                         765.4000244140625
                     ]
-                    
                 ],
                 "rules": [
                     {

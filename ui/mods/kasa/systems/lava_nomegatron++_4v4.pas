@@ -19,15 +19,15 @@
             "max_spawn_delay": 0,
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_metal_t1_large_8_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_metal_t1_large_8_ramp.json",
+                    "height": 698.0812377929688,
                     "op": "BO_Add",
                     "position": [
                         -0.06163787841796875,
                         0.16164016723632812,
                         -703.0811767578125
                     ],
-                    "height": 698.0812377929688,
                     "transform": [
                         -1.8099992275238037,
                         0,
@@ -62,21 +62,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_metal_t1_large_8_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_metal_t1_large_8_ramp.json",
+                    "height": 698.0785522460938,
                     "op": "BO_Add",
                     "position": [
                         0.2296133041381836,
                         -0.21854019165039062,
                         703.0784912109375
                     ],
-                    "height": 698.0785522460938,
                     "transform": [
                         1.8099991083145142,
                         9.186901905877676e-8,
@@ -111,21 +111,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_metal_t3_small_2_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_metal_t3_small_2_ramp.json",
+                    "height": 667.5252075195312,
                     "op": "BO_Add",
                     "position": [
                         -0.17958545684814453,
                         -707.5252075195312,
                         0.08577251434326172
                     ],
-                    "height": 667.5252075195312,
                     "transform": [
                         6.800060749053955,
                         -0.0017257954459637403,
@@ -160,21 +160,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_metal_t2_medium_wide_ramp.json",
+                    "height": 703.609130859375,
                     "op": "BO_Add",
                     "position": [
                         -701.3893432617188,
                         67.28339385986328,
                         0.027410507202148438
                     ],
-                    "height": 703.609130859375,
                     "transform": [
                         0.15278245508670807,
                         -0.0008013993501663208,
@@ -209,21 +209,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_metal_t2_medium_wide_ramp.json",
+                    "height": 705.23095703125,
                     "op": "BO_Add",
                     "position": [
                         703.0255126953125,
                         67.21076965332031,
                         -0.06043052673339844
                     ],
-                    "height": 705.23095703125,
                     "transform": [
                         -0.1522674709558487,
                         0.0007284702733159065,
@@ -258,21 +258,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_metal_t3_small.json",
+                    "height": 702.7233276367188,
                     "op": "BO_Add",
                     "position": [
                         -498.2402038574219,
                         498.3890686035156,
                         0.03742218017578125
                     ],
-                    "height": 702.7233276367188,
                     "transform": [
                         -0.00622183084487915,
                         1.4144103527069092,
@@ -307,21 +307,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_metal_t3_small.json",
+                    "height": 702.9938354492188,
                     "op": "BO_Add",
                     "position": [
                         498.72900390625,
                         498.28271484375,
                         -0.0454254150390625
                     ],
-                    "height": 702.9938354492188,
                     "transform": [
                         1.4135677814483643,
                         0.005780637264251709,
@@ -356,21 +356,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_metal_t2_medium_long.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_metal_t2_medium_long.json",
+                    "height": 690.2318725585938,
                     "op": "BO_Add",
                     "position": [
                         0.03922557830810547,
                         699.2318725585938,
                         -0.04245471954345703
                     ],
-                    "height": 690.2318725585938,
                     "transform": [
                         1,
                         -0.00005610150401480496,
@@ -405,21 +405,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 702.989013671875,
                     "op": "BO_Add",
                     "position": [
                         138.27474975585938,
                         686.19580078125,
                         -0.18790388107299805
                     ],
-                    "height": 702.989013671875,
                     "transform": [
                         0.007902920246124268,
                         -4.166249752044678,
@@ -454,21 +454,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 702.0875244140625,
                     "op": "BO_Add",
                     "position": [
                         -138.36102294921875,
                         686.27880859375,
                         0.42882633209228516
                     ],
-                    "height": 702.0875244140625,
                     "transform": [
                         0.008236885070800781,
                         4.166167259216309,
@@ -503,21 +503,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_metal_t2_medium_long.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_metal_t2_medium_long.json",
+                    "height": 692.8203735351562,
                     "op": "BO_Add",
                     "position": [
                         -587.7767333984375,
                         -381.66436767578125,
                         -0.07720446586608887
                     ],
-                    "height": 692.8203735351562,
                     "transform": [
                         0.4574556350708008,
                         0.0022605955600738525,
@@ -552,21 +552,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 700.0721435546875,
                     "op": "BO_Add",
                     "position": [
                         -641.214111328125,
                         -278.46875,
                         1.2095131874084473
                     ],
-                    "height": 700.0721435546875,
                     "transform": [
                         0.019088923931121826,
                         -1.394073486328125,
@@ -601,21 +601,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 704.8533935546875,
                     "op": "BO_Add",
                     "position": [
                         -516.824951171875,
                         -476.3343200683594,
                         -0.6632910370826721
                     ],
-                    "height": 704.8533935546875,
                     "transform": [
                         0.008604764938354492,
                         -2.371987819671631,
@@ -650,21 +650,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/lava/brushes/lava_metal_t2_medium_long.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/lava/brushes/lava_metal_t2_medium_long.json",
+                    "height": 698.56201171875,
                     "op": "BO_Add",
                     "position": [
                         592.419677734375,
                         -385.0569152832031,
                         0.19209718704223633
                     ],
-                    "height": 698.56201171875,
                     "transform": [
                         0.45776891708374023,
                         -0.0027365535497665405,
@@ -699,21 +699,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 706.3529052734375,
                     "op": "BO_Add",
                     "position": [
                         520.8727416992188,
                         -475.6197509765625,
                         -0.3460729718208313
                     ],
-                    "height": 706.3529052734375,
                     "transform": [
                         -0.0012267827987670898,
                         2.3600502014160156,
@@ -748,21 +748,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
+                    "height": 706.0482788085938,
                     "op": "BO_Add",
                     "position": [
                         646.552490234375,
                         -283.67584228515625,
                         1.432661533355713
                     ],
-                    "height": 706.0482788085938,
                     "transform": [
                         0.025430500507354736,
                         1.4060157537460327,
@@ -797,21 +797,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
+                    "height": 706.0890502929688,
                     "op": "BO_Add",
                     "position": [
                         -560.4658203125,
                         -365.37017822265625,
                         219.37205505371094
                     ],
-                    "height": 706.0890502929688,
                     "transform": [
                         0.5442912578582764,
                         0.2647759020328522,
@@ -846,21 +846,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
+                    "height": 706.013671875,
                     "op": "BO_Add",
                     "position": [
                         -561.00048828125,
                         -363.4364013671875,
                         -220.96981811523438
                     ],
-                    "height": 706.013671875,
                     "transform": [
                         0.5421355366706848,
                         -0.26665109395980835,
@@ -895,21 +895,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
+                    "height": 701.6749267578125,
                     "op": "BO_Add",
                     "position": [
                         0.06994247436523438,
                         646.2301635742188,
                         257.5853271484375
                     ],
-                    "height": 701.6749267578125,
                     "transform": [
                         0.9999493360519409,
                         -0.010067986324429512,
@@ -944,21 +944,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
+                    "height": 701.6726684570312,
                     "op": "BO_Add",
                     "position": [
                         0.0090179443359375,
                         645.7459716796875,
                         -258.79058837890625
                     ],
-                    "height": 701.6726684570312,
                     "transform": [
                         1,
                         -0.000019160201190970838,
@@ -993,21 +993,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
+                    "height": 708.4164428710938,
                     "op": "BO_Add",
                     "position": [
                         563.6964111328125,
                         -367.7809143066406,
                         220.9918975830078
                     ],
-                    "height": 708.4164428710938,
                     "transform": [
                         0.5445066094398499,
                         -0.2652411460876465,
@@ -1042,21 +1042,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
+                    "height": 708.3819580078125,
                     "op": "BO_Add",
                     "position": [
                         564.784912109375,
                         -365.63214111328125,
                         -221.6667022705078
                     ],
-                    "height": 708.3819580078125,
                     "transform": [
                         0.5444207787513733,
                         0.2606469988822937,
@@ -1091,8 +1091,8 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": true,
                     "no_features": false
                 }
@@ -1194,11 +1194,6 @@
                     -0.45904541015625
                 ],
                 [
-                    -545.4617919921875,
-                    545.911865234375,
-                    -0.012706756591796875
-                ],
-                [
                     -504.0688171386719,
                     580.7083740234375,
                     54.4400634765625
@@ -1217,11 +1212,6 @@
                     -580.456787109375,
                     504.22381591796875,
                     54.020896911621094
-                ],
-                [
-                    546.1561279296875,
-                    545.60302734375,
-                    0.0873117446899414
                 ],
                 [
                     505.4195556640625,

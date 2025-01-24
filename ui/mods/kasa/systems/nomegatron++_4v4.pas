@@ -19,15 +19,15 @@
             "max_spawn_delay": 0,
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t1_large_8_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t1_large_8_ramp.json",
+                    "height": 703.0812377929688,
                     "op": "BO_Add",
                     "position": [
                         -0.06163787841796875,
                         0.16164016723632812,
                         -703.0811767578125
                     ],
-                    "height": 703.0812377929688,
                     "transform": [
                         -1.5999994277954102,
                         0,
@@ -62,21 +62,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t1_large_8_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t1_large_8_ramp.json",
+                    "height": 703.0785522460938,
                     "op": "BO_Add",
                     "position": [
                         0.2296133041381836,
                         -0.21854019165039062,
                         703.0784912109375
                     ],
-                    "height": 703.0785522460938,
                     "transform": [
                         1.5999993085861206,
                         8.121018879592157e-8,
@@ -111,21 +111,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t3_small_2_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t3_small_2_ramp.json",
+                    "height": 706.5252075195312,
                     "op": "BO_Add",
                     "position": [
                         -0.17958545684814453,
                         -707.5252075195312,
                         0.08577251434326172
                     ],
-                    "height": 706.5252075195312,
                     "transform": [
                         6.710058689117432,
                         -0.0017029537120833993,
@@ -160,21 +160,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_wide_ramp.json",
+                    "height": 704.609130859375,
                     "op": "BO_Add",
                     "position": [
                         -701.3893432617188,
                         67.28339385986328,
                         0.027410507202148438
                     ],
-                    "height": 704.609130859375,
                     "transform": [
                         0.15278245508670807,
                         -0.0008013993501663208,
@@ -209,21 +209,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_wide_ramp.json",
+                    "height": 706.23095703125,
                     "op": "BO_Add",
                     "position": [
                         703.0255126953125,
                         67.21076965332031,
                         -0.06043052673339844
                     ],
-                    "height": 706.23095703125,
                     "transform": [
                         -0.1522674709558487,
                         0.0007284702733159065,
@@ -258,21 +258,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t3_small.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_t3_small.json",
+                    "height": 704.7233276367188,
                     "op": "BO_Add",
                     "position": [
                         -498.2402038574219,
                         498.3890686035156,
                         0.03742218017578125
                     ],
-                    "height": 704.7233276367188,
                     "transform": [
                         -0.00622183084487915,
                         1.4144103527069092,
@@ -307,8 +307,8 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 }
@@ -1388,11 +1388,6 @@
                     62.8647575378418,
                     -894.4190063476562,
                     -124.15353393554688
-                ],
-                [
-                    -545.4617919921875,
-                    545.911865234375,
-                    -0.012706756591796875
                 ],
                 [
                     -504.0688171386719,
