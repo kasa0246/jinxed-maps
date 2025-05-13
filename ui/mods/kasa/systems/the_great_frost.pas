@@ -1,6 +1,6 @@
 {
     "name": "The Great Frost",
-    "description": "Ocean currents in the Atlantic grind to a halt. Average temperature on Earth drops below -100°C. The World is thrown into another Ice Age. But every Ice Age slips away after a while. OR does it?",
+    "description": "Ocean currents in the Atlantic grind to a halt. Average temperature on Earth drops below -100°C. The World is thrown into another Ice Age. Cities freeze. Hope dims. Survival becomes the only law. But no winter lasts forever. OR does it?",
     "creator": "kasa",
     "version": "1.0.0",
     "planets": [
