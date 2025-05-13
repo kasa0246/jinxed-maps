@@ -1,6 +1,6 @@
 {
     "name": "The Dust",
-    "description": "The Blight spreads unchecked, slowly transforming Earth into a barren wasteland. The air grows thin. The crops grow dry. With time and options running out, K.A.S.A. launches the Aight mission — a desperate voyage through a wormhole in search of a new home for humanity. The clock is ticking, though. OR is it?",
+    "description": "The Blight spreads unchecked, slowly transforming Earth into a barren wasteland. The air grows thin. The crops grow dry. With time and options running out, K.A.S.A. launches the Aight mission—a desperate voyage through a wormhole in search of a new home for humanity. The clock is ticking, though. OR is it?",
     "creator": "kasa",
     "version": "1.0.0",
     "planets": [
