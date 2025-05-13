@@ -1,6 +1,6 @@
 {
     "name": "The Awakening",
-    "description": "The year is 2137. On the remote, uninhabited island of Pincoo-Pincoo, the calendar of a long-forgotten tribe abruptly ends. At the same moment, a dormant giant stirs from its eternal slumber. A deafening explosion sends corgi-sized rocks — each weighing as much as four baby elephants — hurtling into orbit. The World quakes and tears apart as the continental plates begin to shift. As if it wasn't enough, a massive tsunami washes over the entire planet, destroying everything on its path. Surely, it can’t get any worse for Earth than this. OR can it?",
+    "description": "The year is 2137. On the remote, uninhabited island of Pincoo-Pincoo, the calendar of a long-forgotten tribe abruptly ends. At the same moment, a dormant giant stirs from its eternal slumber. A deafening explosion sends corgi-sized rocks—each weighing as much as four baby elephants—hurtling into orbit. The World quakes and tears apart as the continental plates begin to shift. As if it wasn't enough, a massive tsunami washes over the entire planet, destroying everything on its path. Surely, it can’t get any worse for Earth than this. OR can it?",
     "creator": "kasa",
     "version": "1.0.0",
     "planets": [
