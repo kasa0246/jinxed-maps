@@ -1,4 +1,6 @@
 cShareSystems.load_pas("Jinxed Maps", [
+	"coui://ui/mods/kasa/systems/fixed_nomegatron_4v4.pas",
+	"coui://ui/mods/kasa/systems/fixed_water_nomegatron_4v4.pas",
 	"coui://ui/mods/kasa/systems/nomegatron_4v4.pas",
 	"coui://ui/mods/kasa/systems/nomegatron_5v5.pas",
 	"coui://ui/mods/kasa/systems/water_nomegatron_4v4.pas",
